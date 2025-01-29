@@ -7,3 +7,4 @@ const AddTransformationsTypePage = ({params}: {params: {type: string}}) => {
 }
 
 export default AddTransformationsTypePage
+
