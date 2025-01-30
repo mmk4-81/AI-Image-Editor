@@ -3,11 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div className='home'>
-      <div className='home-heading'>
-        <h1 className='h1-semibold'>
-          Welcome back, <span className='text-primary'>John Doe</span>
-        </h1>
-      </div>
+      <h1 className='text-4xl font-bold bg-dark-600 text-white rounded-md p-4'>Home</h1>
     </div>
   )
 }
