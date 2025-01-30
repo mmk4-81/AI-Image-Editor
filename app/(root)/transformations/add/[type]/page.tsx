@@ -1,10 +1,11 @@
 import React from 'react'
 
-const AddTransformationsTypePage = ({params}: {params: {type: string}}) => {
+const AddTransformationsTypePage = () => {
   return (
-    <div>AddTransformationsType Page {params.type}</div>
+    <div>
+      <h1>AddTransformationsTypePage</h1>
+    </div>
   )
 }
 
 export default AddTransformationsTypePage
-
